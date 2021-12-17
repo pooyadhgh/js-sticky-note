@@ -1,0 +1,9 @@
+# production
+/build
+
+
+# Firebase
+firebase.json
+.firebase
+.firebaserc
+firebase/*
